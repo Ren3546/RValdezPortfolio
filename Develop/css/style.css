@@ -1,0 +1,44 @@
+header{
+    background-image:linear-gradient(to right, white, blue);
+    height:100px;
+  }
+  
+  h1 {
+    float:left;
+    padding:34px 54px;
+    font-size:40px;
+    font-family:Trebuchet MS;
+  }
+  
+  h2 {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family:Trebuchet MS;
+  }
+  
+  ul {
+    text-align:center;
+    margin-top:10px;
+  }
+  
+  li {
+    padding:34px 20px;
+    float:left;
+  }
+  
+  li a {
+    font-family: Trebuchet MS;
+    text-decoration:none;
+    color:aliceblue;
+  }
+  
+  /*Text links in navbar turn black when hovering.*/
+  li a:hover {
+    color:black;
+  }
+  
+  nav {
+    float:right;
+  }
+  
+  
