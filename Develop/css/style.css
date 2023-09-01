@@ -130,6 +130,15 @@ p {
     }
     
   }
-  
+
+  /*Fixes the navbar from disappearing at the dimensions in between desktop and mobile.*/
+@media screen and (max-width: 651px) {
+    nav ul {
+      display:inline-flex;
+      align-items:center;
+      background-color: grey;
+      height:30px;
+    }
+  }
     
   
