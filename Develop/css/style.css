@@ -64,6 +64,11 @@ header{
     opacity:50%;
   }
 
+/*Make images appear with full opacity when hovered.*/
+  img:hover {
+    opacity: 100%;
+  }
+
   p {
     padding-left:6px;
     margin-left:100px;
@@ -71,5 +76,18 @@ header{
     font-family:Trebuchet MS;
   }
 
-
+  .textbox{
+    position:relative;
+      width:15%;
+      height:50%;
+      bottom:30px;
+      left:110px;
+      background-color: black;
+      color: white;
+      padding-left: 20px;
+      padding-right: 20px;
+      font-size:1.0vw;
+      opacity:70%;
+    }
+    
   
