@@ -41,4 +41,35 @@ header{
     float:right;
   }
   
+  main {
+    margin-top:50px;
+  }
+  
+/*Previous Work Images*/
+.topimage {
+    display: inline-block;
+    width:45%;
+    margin-left:100px;
+    border:10px solid blue;
+    border-radius: 2%;
+    opacity:50%;
+  }
+  
+  .bottomimage {
+    display:inline-block;
+    width:25%;
+    margin-left:100px;
+    border:10px solid blue;
+    border-radius: 2%;
+    opacity:50%;
+  }
+
+  p {
+    padding-left:6px;
+    margin-left:100px;
+    margin-top:5px;
+    font-family:Trebuchet MS;
+  }
+
+
   
