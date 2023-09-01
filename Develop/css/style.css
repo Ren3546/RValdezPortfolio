@@ -3,45 +3,45 @@ header{
     height:100px;
   }
   
-  h1 {
+h1 {
     float:left;
     padding:34px 54px;
     font-size:40px;
     font-family:Trebuchet MS;
   }
   
-  h2 {
+h2 {
     margin-top: 10px;
     margin-left: 20px;
     font-family:Trebuchet MS;
   }
   
-  ul {
+ul {
     text-align:center;
     margin-top:10px;
   }
   
-  li {
+li {
     padding:34px 20px;
     float:left;
   }
   
-  li a {
+li a {
     font-family: Trebuchet MS;
     text-decoration:none;
     color:aliceblue;
   }
   
   /*Text links in navbar turn black when hovering.*/
-  li a:hover {
+li a:hover {
     color:black;
   }
   
-  nav {
+nav {
     float:right;
   }
   
-  main {
+main {
     margin-top:50px;
   }
   
@@ -55,7 +55,7 @@ header{
     opacity:50%;
   }
   
-  .bottomimage {
+.bottomimage {
     display:inline-block;
     width:25%;
     margin-left:100px;
@@ -65,18 +65,18 @@ header{
   }
 
 /*Make images appear with full opacity when hovered.*/
-  img:hover {
+img:hover {
     opacity: 100%;
   }
 
-  p {
+p {
     padding-left:6px;
     margin-left:100px;
     margin-top:5px;
     font-family:Trebuchet MS;
   }
 
-  .textbox{
+.textbox{
     position:relative;
       width:15%;
       height:50%;
@@ -89,5 +89,12 @@ header{
       font-size:1.0vw;
       opacity:70%;
     }
+
+/*Bio Image*/
+.bio {
+    width:20%;
+    display:inline-block;
+    margin-left:100px;
+  }
     
   
